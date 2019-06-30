@@ -1,8 +1,3 @@
----
-
-
----
-
 <p><strong>PortLogger bir seri port terminal programıdır. Seri porttan gelen verileri görüntülemeyi ve kaydetmeyi sağlar.</strong></p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*wrzEQ4n6V5Zz3mYj3voGCg.jpeg" alt=""></p>
 <p><strong>Kullanımı</strong></p>
@@ -20,4 +15,3 @@
 <p><a href="http://www.indir.com/koker-portlogger">indir.com</a></p>
 <p><a href="http://www.inndir.com/Koker-PortLogger-50934p.html">inndir.com</a></p>
 <p><a href="http://www.tamindir.com/koker-portlogger/">tamindir.com</a></p>
-
